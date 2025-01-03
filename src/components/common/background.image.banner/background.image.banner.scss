@@ -1,0 +1,9 @@
+#background-image-banner {
+    .content {
+        z-index: 1;
+        background: linear-gradient(0deg, #000, #060606);
+        animation: Gradient 15s ease;
+        // background: linear-gradient(180deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0.5) 100%);
+        // background: linear-gradient(0deg, rgba(56, 14, 127, 0.25), rgba(56, 14, 127, 0.25));
+    }
+}

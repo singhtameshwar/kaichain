@@ -1,0 +1,33 @@
+#site-label-textfield {
+  min-height: 100vh;
+  background: #ffffff;
+  border-radius: 10px;
+}
+.border-radius-10 {
+  border-radius: 10px;
+}
+#site-label-text-field {
+  .MuiOutlinedInput-adornedStart {
+    padding-left: 0px !important;
+  }
+  .MuiInputAdornment-positionEnd {
+    max-width: 80%;
+  }
+}
+.lineHeight {
+  line-height: 0.8 !important;
+}
+.error-message {
+  font-size: 12px;
+}
+// .label {
+//   height: 20px !important;
+// }
+.selected-paper {
+  box-shadow: 0 0 2px 0 #701367 !important;
+  background: #fdfdfd !important;
+}
+.MuiTextField-root {
+  // width: 95%;
+  // margin-left: 5px;
+}
